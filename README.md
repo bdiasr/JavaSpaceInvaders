@@ -10,6 +10,8 @@ Consiste em uma versão simples do clássico jogo Space Invaders, programada em 
 
 **Instruções de Uso**
 
+Para jogar simplesmente basta executar o arquivo .jar "SpaceInvaders"
+
 Tecla A e <- - Esquerda
 
 Tecla D e -> - Direita 
